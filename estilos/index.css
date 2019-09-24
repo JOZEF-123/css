@@ -1,0 +1,36 @@
+
+/*
+   SELECTORES
+        UNIVERSAL *
+		ETIQUETAS
+		CLACE
+		ID
+*/
+#parrafo{
+	color: black;
+}
+
+#link{
+	color: gold;
+}
+
+
+.estilo1{
+	color: violet;
+	text-transform: uppercase;
+	text-decoration: underline;
+	text-shadow: 1px 1px 3px black;
+
+}
+
+a{
+	color:red;
+}
+
+.estilo2{
+	color: yellow;
+	text-transform: capitalize;
+	text-decoration: overline;
+	text-shadow: 1px 1px 3px green;
+
+}
